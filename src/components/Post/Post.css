@@ -1,0 +1,45 @@
+.post {
+    background-color: #77a;
+    padding: 30px;
+    padding-bottom: 10px;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 40px;
+    margin-bottom: 50px;
+    border-radius: 10px;
+}
+
+.btn {
+    width: 30px;
+    height: 30px;
+    display: block;
+    margin: 0 0 20px -20px;
+    border: none;
+    border-radius: 7px;
+}
+
+.up {
+    margin-top: -50px;
+    margin-bottom: 10px;
+    background-color: #008b8b;
+}
+
+.up:hover {
+    background-color: #009b9b;
+}
+
+.down {
+    margin-top: 10px;
+    background-color: #fa8072;
+}
+
+.down:hover {
+    background-color: #fd9082;
+}
+
+.votes {
+    margin: 0;
+    background-color: transparent;
+    font-size: 28px;
+    margin-left: -12px;
+}
